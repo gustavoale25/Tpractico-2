@@ -1,0 +1,164 @@
+* {
+  box-sizing: border-box;
+  margin: 0%;
+  border: 0;
+}
+
+body {
+  width: 100%;
+  height: 100%;
+  background-color: #cdc9a5;
+}
+
+header {
+  background-color: #bcb7a0;
+}
+
+.mini-nav {
+  background-color: black;
+  width: 100%;
+  height: 2rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.mini-nav > h3 {
+  color: white;
+  font-size: small;
+}
+
+body > header > nav {
+  color: #a4a38b;
+  padding: 0%;
+  margin: 0%;
+}
+
+#navbarDark > form {
+  margin-right: 5rem;
+}
+
+#navbarDark > ul > li {
+  background-color: #a9ab91;
+}
+
+#navbarDark {
+  background-color: #b8ac94;
+}
+.container-fluid,
+.form-control {
+  background-color: #807c69;
+  color: #b0ae91;
+}
+
+.nombre-ecommerce {
+  background-color: rgb(134, 135, 113);
+  margin-left: 14rem;
+  color: white;
+  font-family: "Cormorant Garamond", serif;
+  font-size: 3rem;
+  font-style: italic;
+  font-weight: 700;
+
+  padding: 0;
+}
+
+.container-carrito {
+  margin-right: 6rem;
+}
+
+i > img {
+  position: absolute;
+  width: 1.7rem;
+  height: 1.7rem;
+  margin-right: 10rem;
+  bottom: 1rem;
+}
+
+body > h1 {
+  font-size: 2rem;
+  font-weight: 400;
+  padding: 1rem 0rem 0rem;
+}
+
+main {
+  width: 100%;
+
+  padding: 1rem 8rem 3rem;
+  background-color: #b0ac94;
+  display: flex;
+  justify-content: center;
+}
+
+#detalles-de-producto {
+  display: flex;
+  justify-content: center;
+}
+
+#detalle-producto > div {
+  display: flex;
+  flex-direction: column;
+  background-color: #a3a389;
+}
+
+#detalle-producto > div > img {
+  width: 400px;
+  height: 400px;
+  align-items: center;
+  margin-left: 18rem;
+  position: relative;
+  top: 1rem;
+}
+
+footer {
+  width: 100%;
+  height: 15rem;
+  background-color: #98977c;
+  padding: 2rem;
+  display: flex;
+  justify-content: space-between;
+}
+
+a {
+  background-color: #84826d;
+}
+
+.container-flex-redes {
+  width: 10%;
+  height: 0;
+
+  background-color: #b7af9a;
+  display: flex;
+  justify-content: flex-start;
+  flex-direction: column;
+  gap: 2.5rem;
+}
+
+.png-redes {
+  width: 1.875rem;
+  height: 1.875rem;
+  background-color: #a49d87;
+}
+
+.container-ubicacion {
+  display: flex;
+  justify-content: center;
+  background-color: #a99e88;
+}
+
+.preguntas-frecuentes {
+  background-color: #b1a289;
+}
+
+ul {
+  list-style: none;
+  background-color: #897e6f;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+li {
+  background-color: #b4a690;
+}

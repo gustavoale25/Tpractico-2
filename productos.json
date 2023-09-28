@@ -1,0 +1,117 @@
+{
+  "productos": [
+    {
+      
+      "id": 1,
+      "nombre": "Galaxy Z Flip5",
+      "marca": "Samsung",
+      "precio": "$88500",
+      "cuotas": "Hasta 6 cuotas sin interés",
+      "imagen": "./IMG/PRODUCTOS/Samsung Galaxy Z Flip5 5G 256GB.jpg",
+      "descripcion": "El Galaxy Z Flip5 presenta una Flex Window de 3,4 pulgadas creada para la autoexpresión. Compacto y atrapante, este smartphone es tan versátil como portátil."
+    },
+    {
+      "id": 2,
+      "nombre": "Galaxy Z Fold5",
+      "marca": "Samsung",
+      "precio": "$158000",
+      "cuotas": "Hasta 6 cuotas sin interés",
+      "imagen": "./IMG/PRODUCTOS/Samsung Galaxy Z Fold5 5G 512GB.jpg",
+      "descripcion": "El Samsung Galaxy Z Fold5 es mucho más que un celular; es un dispositivo plegable que desafía las leyes de la física. Podés abrirlo, plegarlo para cerrarlo o dejarlo abierto en el ángulo perfecto gracias a su bisagra flexible rediseñada"
+           
+    },
+    {
+      "id": 3,
+      "nombre": "Galaxy A04",
+      "marca": "Samsung",
+      "precio": "$90.399",
+      "cuotas": "Hasta 6 cuotas sin interés",
+      "imagen": "./IMG/PRODUCTOS/Samsung Galaxy A04 64GB.jpg",
+      "descripcion": "Más espacio para jugar Expandí tu vista a la pantalla Infinity-V de 6,5 pulgadas de tu Galaxy A04 y mirá lo que estuviste perdiendo"
+      
+    },
+    {
+      "id": 4,
+      "nombre": "Galaxy A23",
+      "marca": "Samsung",
+      "precio": "$229.999",
+      "cuotas": "Hasta 6 cuotas sin interés",
+      "imagen": "./IMG/PRODUCTOS/Samsung Galaxy A23 5G 128GB.jpg",
+      "descripcion": "La pantalla TFT V-Cut de 6,6 pulgadas del Galaxy A23 te da espacio para ver y hacer más. Con la tecnología FHD+ y una frecuencia de actualización de 90 Hz, el contenido que de todos los días se verá más fluido y nítido."
+    },
+    {
+      "id": 5,
+      "nombre": "Galaxy S21 Fan Edition",
+      "marca": "Samsung",
+      "precio": "$525.666",
+      "cuotas": "Hasta 6 cuotas sin interés",
+      "imagen": "./IMG/PRODUCTOS/Samsung Galaxy S21 Fan Edition 5G 128GB.jpg",
+      "descripcion": "Entre sus puntos destacados, el Samsung S21 FE es un celular con NFC, una tecnología para intercambiar información entre dispositivos de manera inalámbrica."
+    },
+    {
+      "id": 6,
+      "nombre": "Galaxy A22",
+      "marca": "Samsung",
+      "precio": "$127.999",
+      "cuotas": "Hasta 6 cuotas sin interés",
+      "imagen": "./IMG/PRODUCTOS/Samsung Galaxy A22 5G.jpg",
+      "descripcion": "El diseño elegante del Galaxy A22 le brinda un aspecto atractivo y moderno. Sus curvas refinadas hacen que agarrarlo sea cómodo y que la navegación en pantalla sea más fácil."
+    },
+    {
+      "id": 7,
+      "nombre": "Galaxy Z Flip4",
+      "marca": "Samsung",
+      "precio": "$423.999",
+      "cuotas": "Hasta 6 cuotas sin interés",
+      "imagen": "./IMG/PRODUCTOS/Samsung Galaxy Z Flip4 5G 128GB con Buds2.jpg",
+      "descripcion": "Se adapta a todos tus estilos La era de planificar los estilos en torno a tu smartphone ha terminado. Pequeño pero poderoso cuando se pliega, el Galaxy Z Flip4 es un smartphone compacto y con el tamaño justo para deslizarse en el bolsillo cuando es hora de arrasar"
+      
+    },
+    {
+      "id": 8,
+      "nombre": "Galaxy Z Flip4 5G 256GB",
+      "marca": "Samsung",
+      "precio": "$444.799",
+      "cuotas": "Hasta 6 cuotas sin interés",
+      "imagen": "./IMG/PRODUCTOS/Samsung Galaxy Z Flip4 5G 256GB con Buds2.jpg",
+      "descripcion": "Ya no tenés que preocuparte por el agua. Este es el primer smartphone desplegable resistente al agua del mundo. Puede estar a 1,5 metros de profundidad en agua durante un máximo de 30 minutos sin problemas."
+    },
+    {
+      "id": 9,
+      "nombre": "Galaxy Z Fold4 5G 512GB",
+      "marca": "Samsung",
+      "precio": "$1.039.999",
+      "cuotas": "Hasta 6 cuotas sin interés",
+      "imagen": "./IMG/PRODUCTOS/Samsung Galaxy Z Fold4 5G 512GB con Buds2.jpg",
+      "descripcion": "En ambas manos, la pantalla principal de 7.6 pulgadas lo convierte en el mejor dispositivo para hacer más cosas. Y cuando necesités tener las manos libres, simplemente ajustalo, encontrá un buen ángulo y dejalo ahí mientras hacés más."
+    },
+
+   { "id":10 ,
+      "nombre": "Samsung Galaxy A34 5G 128GB",
+      "marca": "Samsung",
+      "precio": "$307.999",
+      "cuotas": "Hasta 6 cuotas sin interes!",
+      "imagen": "./IMG/PRODUCTOS/Samsung Galaxy A34 5G 128GB.jpg",
+      "descripcion": "Con su diseño elegante y moderno, el Samsung A34 se presenta en un diseño irresistible que atrapa miradas y se adapta a cualquier personalidad. Su atractiva combinación de colores no pasa desapercibida y lo convierte en el protagonista de tu día a día. Conocé todos los detalles acerca de este lanzamiento de los últimos"
+    },
+    { "id":11 ,
+    "nombre": "Galaxy A54 5G 128GB",
+    "marca": "Samsung",
+    "precio": "$359.999",
+    "cuotas": "Hasta 6 cuotas sin interes!",
+    "imagen": "./IMG/PRODUCTOS/Samsung Galaxy A54 5G 128GB.jpg",
+    "descripcion": "¿Estás buscando un smartphone que te ofrezca lo mejor en tecnología sin tener que sacrificar tu presupuesto? El Samsung A54 es la opción perfecta para vos. Este increíble dispositivo combina un diseño elegante, características de última generación y un precio competitivo, ideal para aquellos que buscan algo más que un simple teléfono."
+  },
+  
+  { "id": 12 ,
+  "nombre": "Galaxy S23 5G 128GB",
+  "marca": "Samsung",
+  "precio": "$659.999",
+  "cuotas": "Hasta 6 cuotas sin interes!",
+  "imagen": "./IMG/PRODUCTOS/Samsung Galaxy S23 5G 128GB.jpg",
+  "descripcion": "Con el Samsung Galaxy S23 vas a poder disfrutar de los mejores juegos con la mejor resolución. Además, gracias a su poderoso procesador Snapdragon 8, el más poderoso en un Galaxy, vas a poder pasar horas de entretenimiento sin interrupciones ni lentitud."
+}
+  ]
+}
+
+    
